@@ -27,7 +27,7 @@ Key insights for decision-making
 
 Power BI Desktop
 
-Python (Pandas) — optional data validation
+Python (Pandas) — data validation
 
 Dataset: superstore_300_clean.csv
 
