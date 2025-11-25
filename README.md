@@ -6,8 +6,7 @@ This repository contains the complete submission for Task 8: Simple Sales Dashbo
 ├── PowerBi_dashboard.pbix  
 ├── superstore_300.csv 
 ├── superstore_300_clean.csv     
-├── task8.ipynb                 
-├── task 8.pdf                   
+├── task8.ipynb                   
 ├── insights.txt
 ├── Dashboard.jfif
 └── README.md                    
