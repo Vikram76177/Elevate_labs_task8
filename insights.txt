@@ -1,0 +1,4 @@
+1) Monthly trend: Sales show fluctuations month-to-month with noticeable peaks in several months indicating seasonal spikes.
+2) Top region: East is the top-performing region by total sales, contributing approximately $41099.
+3) Top category: Furniture drives the most revenue among categories, with total sales around $76172.
+4) Profitability note: A small portion (~6%) of orders had negative profit, suggesting returns or deep discounts that should be investigated.

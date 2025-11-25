@@ -1,0 +1,301 @@
+Order ID,Order Date,Region,Category,Sub-Category,Sales,Profit,Month-Year,Month-Year Label
+OID1000,2025-05-10,East,Office Supplies,Binders,116.84,20.63,2025-05,May 2025
+OID1001,2023-05-02,South,Office Supplies,Binders,25.04,1.39,2023-05,May 2023
+OID1002,2024-04-11,Central,Furniture,Chairs,1061.65,302.71,2024-04,Apr 2024
+OID1003,2023-11-27,East,Office Supplies,Writing,32.93,3.72,2023-11,Nov 2023
+OID1004,2023-03-29,East,Furniture,Chairs,1115.97,220.36,2023-03,Mar 2023
+OID1005,2025-05-21,Central,Office Supplies,Binders,52.99,10.58,2025-05,May 2025
+OID1006,2023-05-11,West,Office Supplies,Paper,254.51,56.58,2023-05,May 2023
+OID1007,2025-02-08,East,Furniture,Bookcases,801.09,156.69,2025-02,Feb 2025
+OID1008,2023-12-10,East,Office Supplies,Paper,92.88,2.78,2023-12,Dec 2023
+OID1009,2025-03-16,South,Furniture,Bookcases,1403.1,422.19,2025-03,Mar 2025
+OID1010,2024-01-21,Central,Furniture,Chairs,713.92,-127.67,2024-01,Jan 2024
+OID1011,2025-08-13,East,Technology,Accessories,257.83,12.91,2025-08,Aug 2025
+OID1012,2023-10-04,East,Office Supplies,Paper,55.55,6.15,2023-10,Oct 2023
+OID1013,2024-04-04,Central,Office Supplies,Binders,31.61,0.24,2024-04,Apr 2024
+OID1014,2023-01-22,Central,Office Supplies,Binders,157.08,18.96,2023-01,Jan 2023
+OID1015,2023-09-10,South,Technology,Phones,94.83,24.56,2023-09,Sep 2023
+OID1016,2025-01-17,South,Office Supplies,Writing,20.93,-0.67,2025-01,Jan 2025
+OID1017,2025-05-06,South,Technology,Computers,424.68,-97.62,2025-05,May 2025
+OID1018,2024-04-19,East,Technology,Phones,803.72,-84.72,2024-04,Apr 2024
+OID1019,2024-05-25,West,Office Supplies,Paper,66.86,11.73,2024-05,May 2024
+OID1020,2024-11-30,South,Furniture,Chairs,1073.46,115.45,2024-11,Nov 2024
+OID1021,2025-09-02,West,Office Supplies,Writing,185.8,56.54,2025-09,Sep 2025
+OID1022,2023-07-09,South,Furniture,Chairs,473.55,-56.41,2023-07,Jul 2023
+OID1023,2025-08-15,Central,Office Supplies,Paper,311.77,40.67,2025-08,Aug 2025
+OID1024,2024-11-17,Central,Technology,Phones,269.87,-38.96,2024-11,Nov 2024
+OID1025,2025-08-15,East,Furniture,Chairs,1555.05,150.26,2025-08,Aug 2025
+OID1026,2024-07-16,East,Furniture,Chairs,1901.46,-137.4,2024-07,Jul 2024
+OID1027,2025-04-11,Central,Technology,Phones,1352.2,33.21,2025-04,Apr 2025
+OID1028,2024-10-08,Central,Office Supplies,Binders,44.18,-1.2,2024-10,Oct 2024
+OID1029,2023-01-21,East,Office Supplies,Paper,47.96,4.09,2023-01,Jan 2023
+OID1030,2025-04-20,South,Furniture,Chairs,1502.28,350.53,2025-04,Apr 2025
+OID1031,2023-06-16,West,Furniture,Chairs,1342.41,107.23,2023-06,Jun 2023
+OID1032,2024-01-23,South,Furniture,Tables,827.84,131.56,2024-01,Jan 2024
+OID1033,2024-08-23,South,Office Supplies,Binders,70.53,8.36,2024-08,Aug 2024
+OID1034,2023-11-12,Central,Office Supplies,Paper,237.55,44.17,2023-11,Nov 2023
+OID1035,2023-01-14,Central,Office Supplies,Paper,235.0,4.66,2023-01,Jan 2023
+OID1036,2023-08-30,South,Technology,Accessories,460.08,100.13,2023-08,Aug 2023
+OID1037,2025-02-15,East,Office Supplies,Binders,16.27,0.61,2025-02,Feb 2025
+OID1038,2024-07-18,South,Office Supplies,Paper,19.06,2.41,2024-07,Jul 2024
+OID1039,2025-06-16,East,Technology,Phones,1768.92,-93.81,2025-06,Jun 2025
+OID1040,2023-04-02,South,Technology,Accessories,473.14,43.42,2023-04,Apr 2023
+OID1041,2025-08-13,East,Technology,Computers,138.35,35.33,2025-08,Aug 2025
+OID1042,2024-05-23,Central,Technology,Computers,589.11,42.16,2024-05,May 2024
+OID1043,2025-02-14,South,Office Supplies,Paper,249.44,30.24,2025-02,Feb 2025
+OID1044,2023-02-04,West,Technology,Accessories,287.12,15.81,2023-02,Feb 2023
+OID1045,2023-07-25,Central,Office Supplies,Paper,136.42,-3.06,2023-07,Jul 2023
+OID1046,2025-10-22,East,Office Supplies,Writing,95.95,28.28,2025-10,Oct 2025
+OID1047,2025-10-18,West,Technology,Computers,327.72,122.54,2025-10,Oct 2025
+OID1048,2024-07-19,Central,Office Supplies,Paper,38.8,6.15,2024-07,Jul 2024
+OID1049,2024-12-03,West,Furniture,Tables,218.43,57.76,2024-12,Dec 2024
+OID1050,2024-02-06,Central,Office Supplies,Writing,17.46,5.0,2024-02,Feb 2024
+OID1051,2024-12-30,Central,Technology,Accessories,139.36,-15.95,2024-12,Dec 2024
+OID1052,2023-06-11,Central,Office Supplies,Binders,33.82,1.01,2023-06,Jun 2023
+OID1053,2023-07-21,East,Office Supplies,Writing,35.03,4.86,2023-07,Jul 2023
+OID1054,2025-09-22,South,Office Supplies,Writing,113.62,10.4,2025-09,Sep 2025
+OID1055,2023-09-27,East,Office Supplies,Writing,53.75,0.58,2023-09,Sep 2023
+OID1056,2025-03-26,Central,Furniture,Chairs,160.01,27.41,2025-03,Mar 2025
+OID1057,2024-03-31,West,Technology,Phones,463.19,57.53,2024-03,Mar 2024
+OID1058,2025-10-13,Central,Technology,Phones,199.35,24.75,2025-10,Oct 2025
+OID1059,2023-10-23,East,Office Supplies,Paper,126.81,21.02,2023-10,Oct 2023
+OID1060,2024-12-20,Central,Furniture,Bookcases,779.16,97.91,2024-12,Dec 2024
+OID1061,2023-12-04,West,Technology,Accessories,946.87,-20.08,2023-12,Dec 2023
+OID1062,2025-05-28,Central,Technology,Accessories,207.95,-9.55,2025-05,May 2025
+OID1063,2025-03-02,West,Furniture,Bookcases,492.59,5.83,2025-03,Mar 2025
+OID1064,2023-08-05,West,Furniture,Chairs,156.35,12.65,2023-08,Aug 2023
+OID1065,2025-02-02,East,Office Supplies,Binders,474.74,90.89,2025-02,Feb 2025
+OID1066,2023-07-07,Central,Technology,Phones,159.54,1.02,2023-07,Jul 2023
+OID1067,2024-01-15,East,Technology,Accessories,105.14,12.39,2024-01,Jan 2024
+OID1068,2024-05-07,East,Technology,Phones,354.61,20.35,2024-05,May 2024
+OID1069,2023-01-15,East,Furniture,Bookcases,1454.95,195.72,2023-01,Jan 2023
+OID1070,2023-03-06,East,Furniture,Tables,1164.79,25.91,2023-03,Mar 2023
+OID1071,2024-06-04,Central,Technology,Computers,1269.13,141.41,2024-06,Jun 2024
+OID1072,2024-10-09,West,Furniture,Tables,986.76,-152.06,2024-10,Oct 2024
+OID1073,2024-08-15,Central,Furniture,Bookcases,681.64,91.24,2024-08,Aug 2024
+OID1074,2024-01-27,West,Office Supplies,Writing,49.07,4.65,2024-01,Jan 2024
+OID1075,2024-02-23,Central,Office Supplies,Binders,27.99,3.16,2024-02,Feb 2024
+OID1076,2023-10-16,East,Office Supplies,Paper,480.31,14.2,2023-10,Oct 2023
+OID1077,2024-01-14,South,Technology,Computers,660.48,39.37,2024-01,Jan 2024
+OID1078,2023-08-19,East,Technology,Computers,721.0,200.45,2023-08,Aug 2023
+OID1079,2025-10-14,South,Technology,Computers,346.85,26.62,2025-10,Oct 2025
+OID1080,2023-02-10,East,Furniture,Chairs,1396.03,201.51,2023-02,Feb 2023
+OID1081,2023-05-15,West,Office Supplies,Binders,66.32,14.6,2023-05,May 2023
+OID1082,2023-07-20,Central,Office Supplies,Writing,13.97,-3.37,2023-07,Jul 2023
+OID1083,2025-02-18,South,Office Supplies,Paper,149.02,-19.54,2025-02,Feb 2025
+OID1084,2025-07-18,Central,Technology,Computers,123.24,-5.36,2025-07,Jul 2025
+OID1085,2024-05-17,East,Technology,Accessories,732.63,179.3,2024-05,May 2024
+OID1086,2024-02-11,Central,Office Supplies,Writing,165.6,26.84,2024-02,Feb 2024
+OID1087,2025-03-15,Central,Furniture,Tables,2741.29,318.32,2025-03,Mar 2025
+OID1088,2023-04-09,East,Furniture,Chairs,2100.32,158.65,2023-04,Apr 2023
+OID1089,2024-11-14,West,Furniture,Bookcases,2169.91,694.22,2024-11,Nov 2024
+OID1090,2024-12-26,West,Technology,Computers,131.71,35.51,2024-12,Dec 2024
+OID1091,2025-08-18,Central,Office Supplies,Binders,65.39,-3.01,2025-08,Aug 2025
+OID1092,2024-09-04,South,Technology,Computers,1903.08,340.7,2024-09,Sep 2024
+OID1093,2024-10-04,East,Technology,Computers,2051.09,522.09,2024-10,Oct 2024
+OID1094,2025-10-25,East,Office Supplies,Paper,62.49,2.69,2025-10,Oct 2025
+OID1095,2024-05-17,South,Furniture,Tables,316.84,3.19,2024-05,May 2024
+OID1096,2025-02-05,West,Furniture,Bookcases,710.6,54.94,2025-02,Feb 2025
+OID1097,2024-02-02,Central,Technology,Phones,427.13,10.78,2024-02,Feb 2024
+OID1098,2025-05-20,West,Technology,Accessories,1296.21,49.45,2025-05,May 2025
+OID1099,2025-03-05,East,Office Supplies,Writing,69.33,8.41,2025-03,Mar 2025
+OID1100,2024-01-28,East,Office Supplies,Binders,174.36,3.52,2024-01,Jan 2024
+OID1101,2023-07-26,East,Office Supplies,Binders,37.31,5.29,2023-07,Jul 2023
+OID1102,2025-06-10,Central,Technology,Phones,542.94,126.49,2025-06,Jun 2025
+OID1103,2025-05-13,Central,Furniture,Bookcases,808.4,95.06,2025-05,May 2025
+OID1104,2025-01-12,West,Furniture,Bookcases,4345.84,272.23,2025-01,Jan 2025
+OID1105,2024-07-17,East,Office Supplies,Writing,66.08,15.89,2024-07,Jul 2024
+OID1106,2025-10-17,West,Office Supplies,Paper,33.08,3.65,2025-10,Oct 2025
+OID1107,2023-04-06,East,Furniture,Chairs,429.71,91.17,2023-04,Apr 2023
+OID1108,2024-04-29,West,Technology,Accessories,1008.65,249.29,2024-04,Apr 2024
+OID1109,2023-08-19,East,Furniture,Bookcases,815.49,-17.19,2023-08,Aug 2023
+OID1110,2025-01-18,South,Office Supplies,Paper,116.44,-1.78,2025-01,Jan 2025
+OID1111,2024-06-24,South,Furniture,Tables,807.84,101.91,2024-06,Jun 2024
+OID1112,2024-06-08,East,Technology,Phones,140.42,4.21,2024-06,Jun 2024
+OID1113,2024-07-31,East,Furniture,Tables,1021.69,-5.22,2024-07,Jul 2024
+OID1114,2024-11-12,South,Office Supplies,Binders,26.0,5.3,2024-11,Nov 2024
+OID1115,2024-07-10,Central,Technology,Computers,881.72,-18.78,2024-07,Jul 2024
+OID1116,2025-10-09,West,Office Supplies,Binders,60.75,8.34,2025-10,Oct 2025
+OID1117,2024-10-07,South,Technology,Phones,1036.37,121.16,2024-10,Oct 2024
+OID1118,2025-03-06,West,Technology,Phones,1791.27,230.66,2025-03,Mar 2025
+OID1119,2023-07-09,East,Office Supplies,Paper,90.94,6.51,2023-07,Jul 2023
+OID1120,2024-09-24,South,Technology,Accessories,1143.53,268.89,2024-09,Sep 2024
+OID1121,2024-09-19,South,Technology,Phones,282.84,-33.85,2024-09,Sep 2024
+OID1122,2025-08-30,South,Office Supplies,Binders,96.94,18.25,2025-08,Aug 2025
+OID1123,2024-12-10,West,Office Supplies,Paper,194.74,22.53,2024-12,Dec 2024
+OID1124,2024-10-10,West,Office Supplies,Binders,61.62,6.77,2024-10,Oct 2024
+OID1125,2023-11-14,East,Office Supplies,Binders,67.58,14.24,2023-11,Nov 2023
+OID1126,2024-11-14,West,Technology,Computers,245.32,-94.02,2024-11,Nov 2024
+OID1127,2024-10-25,East,Office Supplies,Binders,21.45,1.66,2024-10,Oct 2024
+OID1128,2024-03-17,Central,Office Supplies,Writing,79.68,1.92,2024-03,Mar 2024
+OID1129,2024-07-17,Central,Office Supplies,Binders,16.32,0.9,2024-07,Jul 2024
+OID1130,2025-08-09,West,Office Supplies,Paper,49.99,13.56,2025-08,Aug 2025
+OID1131,2024-11-29,East,Furniture,Bookcases,1675.56,101.46,2024-11,Nov 2024
+OID1132,2023-04-23,South,Technology,Phones,185.88,18.1,2023-04,Apr 2023
+OID1133,2023-01-02,Central,Office Supplies,Writing,121.74,24.11,2023-01,Jan 2023
+OID1134,2024-10-03,South,Office Supplies,Binders,97.74,15.98,2024-10,Oct 2024
+OID1135,2023-08-08,South,Office Supplies,Paper,147.8,15.28,2023-08,Aug 2023
+OID1136,2025-05-04,Central,Furniture,Chairs,692.31,72.41,2025-05,May 2025
+OID1137,2024-01-20,West,Office Supplies,Paper,81.72,7.6,2024-01,Jan 2024
+OID1138,2024-12-30,Central,Office Supplies,Binders,30.77,7.12,2024-12,Dec 2024
+OID1139,2023-09-04,East,Office Supplies,Paper,36.6,7.97,2023-09,Sep 2023
+OID1140,2025-04-15,West,Technology,Computers,1480.07,206.7,2025-04,Apr 2025
+OID1141,2023-07-22,Central,Office Supplies,Binders,170.65,12.01,2023-07,Jul 2023
+OID1142,2023-05-03,South,Office Supplies,Writing,136.6,12.94,2023-05,May 2023
+OID1143,2024-02-05,East,Technology,Computers,490.98,31.66,2024-02,Feb 2024
+OID1144,2025-02-05,West,Office Supplies,Writing,65.52,1.54,2025-02,Feb 2025
+OID1145,2023-10-21,East,Office Supplies,Paper,63.86,0.61,2023-10,Oct 2023
+OID1146,2023-10-07,East,Office Supplies,Binders,77.95,8.84,2023-10,Oct 2023
+OID1147,2025-06-02,South,Office Supplies,Writing,167.38,11.48,2025-06,Jun 2025
+OID1148,2023-07-17,South,Technology,Computers,447.07,24.17,2023-07,Jul 2023
+OID1149,2025-09-08,Central,Technology,Accessories,154.03,19.62,2025-09,Sep 2025
+OID1150,2025-01-21,East,Furniture,Tables,1177.4,281.89,2025-01,Jan 2025
+OID1151,2023-05-24,South,Furniture,Chairs,2321.55,146.08,2023-05,May 2023
+OID1152,2024-08-31,South,Office Supplies,Writing,47.14,0.93,2024-08,Aug 2024
+OID1153,2023-07-06,South,Office Supplies,Paper,72.4,14.67,2023-07,Jul 2023
+OID1154,2024-04-08,East,Office Supplies,Writing,99.13,12.24,2024-04,Apr 2024
+OID1155,2024-10-21,Central,Office Supplies,Paper,38.78,0.18,2024-10,Oct 2024
+OID1156,2025-02-02,Central,Furniture,Bookcases,425.78,50.74,2025-02,Feb 2025
+OID1157,2025-08-12,South,Furniture,Chairs,826.39,184.32,2025-08,Aug 2025
+OID1158,2024-02-07,West,Technology,Computers,833.83,254.04,2024-02,Feb 2024
+OID1159,2023-05-27,Central,Office Supplies,Binders,60.24,8.72,2023-05,May 2023
+OID1160,2025-05-13,West,Furniture,Chairs,1015.33,57.92,2025-05,May 2025
+OID1161,2024-05-03,South,Furniture,Chairs,705.76,95.05,2024-05,May 2024
+OID1162,2025-07-17,South,Office Supplies,Binders,43.55,7.67,2025-07,Jul 2025
+OID1163,2024-07-04,Central,Furniture,Chairs,814.92,105.12,2024-07,Jul 2024
+OID1164,2023-12-04,Central,Office Supplies,Paper,97.71,4.87,2023-12,Dec 2023
+OID1165,2025-05-21,West,Office Supplies,Binders,126.21,13.71,2025-05,May 2025
+OID1166,2024-10-02,South,Furniture,Tables,1155.66,68.9,2024-10,Oct 2024
+OID1167,2024-04-17,West,Technology,Accessories,348.8,-46.31,2024-04,Apr 2024
+OID1168,2023-05-31,South,Technology,Computers,328.79,51.86,2023-05,May 2023
+OID1169,2023-09-20,East,Technology,Computers,357.0,83.07,2023-09,Sep 2023
+OID1170,2023-05-24,Central,Technology,Computers,139.61,11.08,2023-05,May 2023
+OID1171,2023-12-12,East,Technology,Phones,534.49,126.46,2023-12,Dec 2023
+OID1172,2024-09-15,East,Technology,Computers,600.32,38.18,2024-09,Sep 2024
+OID1173,2025-10-13,South,Office Supplies,Writing,110.52,12.64,2025-10,Oct 2025
+OID1174,2025-05-30,Central,Technology,Accessories,125.15,7.93,2025-05,May 2025
+OID1175,2023-01-02,East,Office Supplies,Binders,31.29,7.33,2023-01,Jan 2023
+OID1176,2025-06-15,South,Technology,Computers,612.08,59.37,2025-06,Jun 2025
+OID1177,2023-09-11,West,Technology,Computers,378.78,46.34,2023-09,Sep 2023
+OID1178,2024-03-28,South,Technology,Phones,1708.2,461.39,2024-03,Mar 2024
+OID1179,2025-10-11,East,Furniture,Chairs,458.97,54.42,2025-10,Oct 2025
+OID1180,2023-01-09,Central,Office Supplies,Paper,99.92,8.58,2023-01,Jan 2023
+OID1181,2025-03-26,East,Furniture,Chairs,569.86,-69.74,2025-03,Mar 2025
+OID1182,2023-07-27,Central,Office Supplies,Writing,105.76,14.58,2023-07,Jul 2023
+OID1183,2024-02-08,Central,Furniture,Tables,627.72,78.31,2024-02,Feb 2024
+OID1184,2023-06-01,Central,Office Supplies,Paper,41.46,3.89,2023-06,Jun 2023
+OID1185,2023-02-23,South,Office Supplies,Paper,28.3,-0.59,2023-02,Feb 2023
+OID1186,2024-09-19,Central,Technology,Accessories,325.78,57.75,2024-09,Sep 2024
+OID1187,2024-08-09,South,Furniture,Chairs,2866.61,740.49,2024-08,Aug 2024
+OID1188,2023-04-14,Central,Office Supplies,Paper,107.44,16.99,2023-04,Apr 2023
+OID1189,2023-09-11,Central,Technology,Accessories,2444.08,243.12,2023-09,Sep 2023
+OID1190,2024-05-24,South,Office Supplies,Binders,379.35,8.0,2024-05,May 2024
+OID1191,2023-04-09,West,Office Supplies,Binders,130.29,32.15,2023-04,Apr 2023
+OID1192,2023-06-02,South,Office Supplies,Paper,36.9,1.37,2023-06,Jun 2023
+OID1193,2025-07-02,East,Technology,Computers,187.02,44.86,2025-07,Jul 2025
+OID1194,2025-05-27,Central,Office Supplies,Writing,126.74,-1.56,2025-05,May 2025
+OID1195,2023-12-04,East,Furniture,Bookcases,621.51,96.44,2023-12,Dec 2023
+OID1196,2025-04-01,Central,Technology,Accessories,123.51,3.69,2025-04,Apr 2025
+OID1197,2025-08-14,South,Office Supplies,Binders,24.8,7.2,2025-08,Aug 2025
+OID1198,2023-06-10,Central,Technology,Accessories,784.03,182.96,2023-06,Jun 2023
+OID1199,2025-03-11,South,Technology,Accessories,745.65,-4.01,2025-03,Mar 2025
+OID1200,2024-02-02,East,Office Supplies,Writing,55.97,12.81,2024-02,Feb 2024
+OID1201,2025-03-26,East,Office Supplies,Binders,78.48,16.27,2025-03,Mar 2025
+OID1202,2024-02-05,West,Furniture,Chairs,149.72,21.49,2024-02,Feb 2024
+OID1203,2024-10-01,Central,Office Supplies,Binders,41.54,-3.02,2024-10,Oct 2024
+OID1204,2024-11-18,West,Technology,Phones,352.07,54.45,2024-11,Nov 2024
+OID1205,2024-04-04,East,Technology,Computers,446.66,98.07,2024-04,Apr 2024
+OID1206,2025-08-12,West,Office Supplies,Paper,65.86,-14.05,2025-08,Aug 2025
+OID1207,2024-04-14,South,Furniture,Bookcases,458.56,-4.8,2024-04,Apr 2024
+OID1208,2025-01-19,Central,Office Supplies,Writing,62.85,18.71,2025-01,Jan 2025
+OID1209,2023-02-07,South,Technology,Computers,411.71,41.32,2023-02,Feb 2023
+OID1210,2023-08-18,East,Office Supplies,Binders,31.63,4.84,2023-08,Aug 2023
+OID1211,2024-07-16,West,Furniture,Bookcases,514.42,62.21,2024-07,Jul 2024
+OID1212,2024-03-13,West,Furniture,Chairs,251.2,42.79,2024-03,Mar 2024
+OID1213,2023-01-27,Central,Office Supplies,Writing,183.67,-2.57,2023-01,Jan 2023
+OID1214,2023-08-14,East,Furniture,Bookcases,1254.64,48.92,2023-08,Aug 2023
+OID1215,2025-03-08,South,Furniture,Tables,1205.95,34.11,2025-03,Mar 2025
+OID1216,2023-10-11,West,Technology,Accessories,573.89,78.44,2023-10,Oct 2023
+OID1217,2025-05-28,South,Technology,Computers,1145.68,273.48,2025-05,May 2025
+OID1218,2025-08-17,West,Furniture,Tables,448.49,67.12,2025-08,Aug 2025
+OID1219,2024-03-28,Central,Office Supplies,Binders,146.04,7.33,2024-03,Mar 2024
+OID1220,2025-10-16,South,Technology,Phones,1677.22,277.33,2025-10,Oct 2025
+OID1221,2025-03-26,Central,Technology,Phones,459.88,90.5,2025-03,Mar 2025
+OID1222,2024-10-20,South,Technology,Phones,1315.44,123.47,2024-10,Oct 2024
+OID1223,2024-06-30,Central,Furniture,Tables,1838.23,-48.17,2024-06,Jun 2024
+OID1224,2023-01-17,Central,Office Supplies,Writing,38.03,-4.77,2023-01,Jan 2023
+OID1225,2023-06-07,West,Furniture,Chairs,825.41,79.87,2023-06,Jun 2023
+OID1226,2024-04-21,Central,Furniture,Tables,148.09,7.66,2024-04,Apr 2024
+OID1227,2024-06-01,West,Technology,Accessories,176.34,-7.85,2024-06,Jun 2024
+OID1228,2023-04-09,West,Office Supplies,Writing,270.51,33.14,2023-04,Apr 2023
+OID1229,2023-10-07,East,Technology,Computers,883.42,130.85,2023-10,Oct 2023
+OID1230,2024-05-11,West,Furniture,Bookcases,743.93,-15.59,2024-05,May 2024
+OID1231,2023-10-29,West,Furniture,Tables,416.41,8.98,2023-10,Oct 2023
+OID1232,2023-06-30,Central,Office Supplies,Writing,42.96,4.57,2023-06,Jun 2023
+OID1233,2024-08-29,East,Technology,Accessories,239.31,23.34,2024-08,Aug 2024
+OID1234,2024-11-30,South,Furniture,Bookcases,533.45,91.41,2024-11,Nov 2024
+OID1235,2025-09-19,Central,Office Supplies,Paper,228.17,18.82,2025-09,Sep 2025
+OID1236,2023-07-10,Central,Office Supplies,Paper,87.68,12.65,2023-07,Jul 2023
+OID1237,2023-09-10,Central,Technology,Accessories,772.07,182.26,2023-09,Sep 2023
+OID1238,2025-09-07,South,Furniture,Chairs,650.75,-126.99,2025-09,Sep 2025
+OID1239,2025-07-16,West,Furniture,Chairs,1344.98,222.94,2025-07,Jul 2025
+OID1240,2023-05-08,East,Office Supplies,Paper,42.76,13.02,2023-05,May 2023
+OID1241,2023-01-18,East,Office Supplies,Writing,75.33,15.02,2023-01,Jan 2023
+OID1242,2024-07-19,East,Office Supplies,Binders,200.43,50.58,2024-07,Jul 2024
+OID1243,2024-07-23,East,Office Supplies,Binders,53.07,5.64,2024-07,Jul 2024
+OID1244,2024-11-16,Central,Furniture,Bookcases,503.33,155.86,2024-11,Nov 2024
+OID1245,2024-09-17,Central,Office Supplies,Paper,100.39,3.67,2024-09,Sep 2024
+OID1246,2025-05-03,Central,Office Supplies,Writing,146.82,-6.02,2025-05,May 2025
+OID1247,2025-08-19,West,Office Supplies,Paper,49.16,-1.59,2025-08,Aug 2025
+OID1248,2023-06-04,South,Furniture,Chairs,541.27,76.07,2023-06,Jun 2023
+OID1249,2024-05-04,Central,Office Supplies,Binders,35.18,5.74,2024-05,May 2024
+OID1250,2025-02-23,Central,Office Supplies,Binders,280.47,-36.99,2025-02,Feb 2025
+OID1251,2023-09-03,Central,Office Supplies,Binders,38.05,5.82,2023-09,Sep 2023
+OID1252,2025-01-28,West,Office Supplies,Binders,13.88,0.56,2025-01,Jan 2025
+OID1253,2024-06-21,East,Furniture,Bookcases,1987.11,266.61,2024-06,Jun 2024
+OID1254,2025-07-09,East,Office Supplies,Binders,110.05,13.6,2025-07,Jul 2025
+OID1255,2024-02-12,East,Office Supplies,Binders,47.97,-1.32,2024-02,Feb 2024
+OID1256,2024-06-08,South,Office Supplies,Binders,20.18,2.84,2024-06,Jun 2024
+OID1257,2025-04-07,South,Office Supplies,Writing,105.21,24.22,2025-04,Apr 2025
+OID1258,2025-06-21,West,Office Supplies,Binders,155.53,-21.68,2025-06,Jun 2025
+OID1259,2023-02-05,South,Office Supplies,Binders,97.77,11.94,2023-02,Feb 2023
+OID1260,2024-11-15,East,Technology,Accessories,205.14,17.38,2024-11,Nov 2024
+OID1261,2023-01-20,South,Office Supplies,Binders,136.49,13.93,2023-01,Jan 2023
+OID1262,2023-11-17,South,Office Supplies,Paper,78.51,13.49,2023-11,Nov 2023
+OID1263,2024-05-26,South,Office Supplies,Binders,99.21,7.78,2024-05,May 2024
+OID1264,2024-02-04,West,Technology,Phones,731.74,91.76,2024-02,Feb 2024
+OID1265,2024-10-15,South,Office Supplies,Paper,60.44,9.26,2024-10,Oct 2024
+OID1266,2025-08-29,East,Technology,Phones,144.36,35.46,2025-08,Aug 2025
+OID1267,2024-04-15,South,Office Supplies,Paper,47.73,4.0,2024-04,Apr 2024
+OID1268,2025-04-13,Central,Technology,Phones,319.17,-17.27,2025-04,Apr 2025
+OID1269,2024-12-27,East,Furniture,Chairs,505.0,45.33,2024-12,Dec 2024
+OID1270,2025-05-03,West,Office Supplies,Paper,25.31,4.59,2025-05,May 2025
+OID1271,2023-02-20,West,Office Supplies,Binders,28.7,1.94,2023-02,Feb 2023
+OID1272,2024-07-28,South,Office Supplies,Binders,154.63,-25.7,2024-07,Jul 2024
+OID1273,2023-05-30,East,Furniture,Tables,2234.32,182.31,2023-05,May 2023
+OID1274,2023-11-10,East,Office Supplies,Writing,26.39,2.86,2023-11,Nov 2023
+OID1275,2024-07-23,Central,Furniture,Tables,729.86,55.82,2024-07,Jul 2024
+OID1276,2023-11-01,West,Office Supplies,Writing,32.7,2.81,2023-11,Nov 2023
+OID1277,2024-11-12,West,Office Supplies,Binders,28.59,-2.04,2024-11,Nov 2024
+OID1278,2025-04-17,South,Office Supplies,Paper,113.39,-12.09,2025-04,Apr 2025
+OID1279,2025-09-29,East,Technology,Phones,468.19,63.33,2025-09,Sep 2025
+OID1280,2024-03-19,West,Technology,Computers,245.44,-23.61,2024-03,Mar 2024
+OID1281,2024-09-04,East,Furniture,Chairs,327.39,41.34,2024-09,Sep 2024
+OID1282,2025-09-19,West,Technology,Phones,906.33,220.03,2025-09,Sep 2025
+OID1283,2023-09-21,East,Technology,Computers,182.05,4.16,2023-09,Sep 2023
+OID1284,2025-09-30,South,Office Supplies,Writing,50.6,10.6,2025-09,Sep 2025
+OID1285,2023-01-05,Central,Office Supplies,Paper,44.51,7.92,2023-01,Jan 2023
+OID1286,2025-02-12,West,Furniture,Chairs,1261.38,316.75,2025-02,Feb 2025
+OID1287,2025-05-26,East,Office Supplies,Binders,41.93,0.08,2025-05,May 2025
+OID1288,2025-09-18,Central,Furniture,Chairs,493.72,105.06,2025-09,Sep 2025
+OID1289,2025-06-02,West,Technology,Accessories,515.61,104.64,2025-06,Jun 2025
+OID1290,2023-02-16,East,Office Supplies,Binders,121.47,8.38,2023-02,Feb 2023
+OID1291,2025-05-16,West,Furniture,Chairs,157.65,34.28,2025-05,May 2025
+OID1292,2025-04-02,South,Furniture,Tables,772.94,250.66,2025-04,Apr 2025
+OID1293,2025-07-24,West,Furniture,Chairs,1004.96,147.32,2025-07,Jul 2025
+OID1294,2024-10-17,Central,Technology,Phones,197.08,35.58,2024-10,Oct 2024
+OID1295,2023-09-26,Central,Technology,Accessories,822.02,195.1,2023-09,Sep 2023
+OID1296,2024-01-05,Central,Furniture,Tables,997.75,-51.63,2024-01,Jan 2024
+OID1297,2024-09-27,East,Technology,Accessories,919.77,163.53,2024-09,Sep 2024
+OID1298,2024-10-18,East,Furniture,Bookcases,385.41,-22.07,2024-10,Oct 2024
+OID1299,2023-04-30,West,Technology,Phones,764.13,-42.85,2023-04,Apr 2023
